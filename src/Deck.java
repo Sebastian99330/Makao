@@ -8,7 +8,7 @@ public class Deck {
 		fillDeck();	//dlatego musimy go wype³niæ 52 kartami
 	}	
 
-
+//dodaje s³owo
 	/**
 	 * uyufgu
 	 * @return
